@@ -3,7 +3,7 @@
 <h2>Overview</h2>
 <p>Custom Linux shell with both serial and parallel execution capabilities.
   Built using C++. Makes use of fork() and exec() system calls, I/O streams, and 
-  string processing. Project submission for Miami University's CSE 381: Systems I. 
+  string processing. Project submission for Miami University's CSE 381: Systems I during the Fall 2021 semester. 
  </p>
  
  <h2>Usage Guide</h2>
