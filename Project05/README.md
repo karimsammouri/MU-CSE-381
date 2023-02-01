@@ -7,7 +7,7 @@
  </p>
  
  <h2>Usage Guide</h2>
- <img width="700" src="https://github.com/karimsammouri/MU-CSE-381/blob/main/Project05/Screenshots/Guide.png">
+ <img width="700" src="https://github.com/karimsammouri/MU-CSE-381/tree/main/Project05/Screenshots/Usage.png">
  
  <h2>Regular-Usage Sample</h2>
  <img width="700" src="https://github.com/karimsammouri/MU-CSE-381/blob/main/Project05/Screenshots/Regular.png">
